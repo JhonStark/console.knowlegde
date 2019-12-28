@@ -1,7 +1,7 @@
 # console.knowlegde
 Console methods and attributes to use them like a PRO
 
-- [ ] **console.clear( )
+- [ ] **console.clear( )**
 This one is the last but not the least 😁, To clear all the above console messages which you’ve learned, It’s time to destroy them with clear() command
 
 - [ ] **console.memory( )
